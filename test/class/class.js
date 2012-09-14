@@ -1,0 +1,6 @@
+class EmptyClass {
+}
+var ec = new EmptyClass;
+class EmptyClass2 extends EmptyClass  {
+}
+var ec2 = new EmptyClass2;
